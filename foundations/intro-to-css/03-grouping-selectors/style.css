@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.click-button-one {
+    background-color: hsl(0, 0%, 0%);
+    color: #FFFFFF;
+}
+
+.click-button-two {
+    background-color: rgb(255, 255, 0);
+}
+
+.click-button-one,
+.click-button-two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
